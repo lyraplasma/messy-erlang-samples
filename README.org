@@ -1,0 +1,6 @@
+tried to use escript hello.escript and got hit with complication error
+but when i tried to use this
+#+BEGIN_SRC erl
+#!/usr/bin/env escript
+#+END_SRC
+works fine..
